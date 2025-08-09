@@ -1,0 +1,15 @@
+wandb
+trl
+torch
+torchvision
+torchaudio
+transformers
+datasets
+accelerate
+peft
+scipy
+tqdm
+omegaconf
+einops
+matplotlib
+seaborn
